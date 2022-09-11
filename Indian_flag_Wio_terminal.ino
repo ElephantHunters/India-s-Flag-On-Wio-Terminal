@@ -60,21 +60,7 @@ void setup() {
 
   tft.setTextColor(TFT_BLACK);         
   tft.setTextSize(3);                   
-  tft.drawString("Amrit Mahotsav", 40,200);
-  
-  
-
- 
-
-  
- 
-
-  
-
-
-  
-
-  
+  tft.drawString("Amrit Mahotsav", 40,200); 
 
 }
 
